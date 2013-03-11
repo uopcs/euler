@@ -11,7 +11,7 @@
 				}
 			}
 			
-			echo $i;
+			echo $total;
 		?>
 	</body>
 </html>
