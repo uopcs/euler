@@ -1,11 +1,13 @@
-Euler-Bin
-=========
+#Euler-Bin
 
-project euler repo!!
+project euler code
 
-    File Structure
+##File Structure
     
-    > Every Question Gets It's Own Folder
-    > Submit Code In The Format 'Problem N - [YOUR NAME].whatever'
+Every question gets it's own folder.
+
+Commit code in the format:
+
+    Problem [n] - [your name].[file type]
   
-HAPPY CODING!
+*HAPPY CODING!*
