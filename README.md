@@ -8,6 +8,10 @@ Every question gets it's own folder.
 
 Commit code in the format:
 
-    Problem [n] - [your name].[file type]
+    [my programming language] solution - [your name].[file type]
+    
+    eg.
+    
+    python solution - fred.py
   
 *HAPPY CODING!*
