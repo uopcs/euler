@@ -11,7 +11,7 @@ data Max = Max { getMax :: !Integer, getInp :: !Integer } deriving (Eq)
 instance Ord Max where
     compare (Max a _) (Max b _) = compare a b
 
--- Max values for a monoid over 'max'.
+-- Max values form a monoid over 'max'.
 instance Monoid Max where
     {-
     Technically Max is a semigroup but Writer expects a monoid.
