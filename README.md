@@ -2,8 +2,19 @@
 
 project euler code
 
+##Rules
 
-    PLEASE DO NOT USE CODE YOU FOUND ON THE INTERNET... 
+    There Are No Rules!
+    
+    Just Joking, Here Are The Rules:
+
+    1. Please Abide By The Naming Conventions
+    
+    2. Don't Steal Other Peoples Code
+    
+    3. Don't Upload Code That Doesn't Produce The Correct Answer
+    
+    4. Don't Upload Code You Found On The Internet
 
 ##File Structure
     
