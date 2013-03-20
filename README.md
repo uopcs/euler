@@ -2,6 +2,10 @@
 
 project euler code
 
+.......................................................
+| PLEASE DO NOT USE CODE YOU FOUND ON THE INTERNET... |
+.......................................................
+
 ##File Structure
     
 Every question gets it's own folder.
