@@ -1,3 +1,6 @@
+## OLD CODE
+
+
 def primeCheck(num):
     currentNumber = 2
     if num < 0:
