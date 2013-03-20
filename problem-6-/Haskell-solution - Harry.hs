@@ -1,5 +1,1 @@
-six (x:xs) = sum . map(^2)   		
-
-six2 (x:xs)=  map(^2) . sum 	
-
-sixfinal = six2 - six
+six = (sum [1..100])^2 - sum (map (^2) [1..100])
