@@ -2,9 +2,8 @@
 
 project euler code
 
-.......................................................
-| PLEASE DO NOT USE CODE YOU FOUND ON THE INTERNET... |
-.......................................................
+
+    PLEASE DO NOT USE CODE YOU FOUND ON THE INTERNET... 
 
 ##File Structure
     
