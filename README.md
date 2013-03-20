@@ -4,10 +4,10 @@ project euler code
 
 ##Rules
 
-    There Are No Rules!
+There Are No Rules!
     
-    Just Joking, Here Are The Rules:
 
+Just Joking, Here Are The Rules:
     1. Please Abide By The Naming Conventions
     
     2. Don't Steal Other Peoples Code
