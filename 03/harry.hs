@@ -1,10 +1,10 @@
-primes = 2 : filter ((==1) . length . primeFactors) [3,5..]
+prime = 2 : filter ((==1) . length . pFs) [3,5..]
  
-primeFactors n = factor n primes
+pFs n = factor n primes
   where
-    factor n (p:ps) 
+    fa n (p:ps) 
         | p*p > n        = [n]
-        | n `mod` p == 0 = p : factor (n `div` p) (p:ps)
-        | otherwise      = factor n ps
+        | n `mod` p == 0 = p : fa (n `div` p) (p:ps)
+        | otherwise      = fa n ps
  
-problem_3 = last (primeFactors 317584931803)
+euler3 = last (pFs 317584931803)
