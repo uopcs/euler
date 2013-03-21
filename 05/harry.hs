@@ -1,1 +1,1 @@
-problem5 = foldr1 lcm [1..20]
+euler5 = foldr1 lcm [1..20]
