@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main(void){
      // get initial set
      int current = 2;
