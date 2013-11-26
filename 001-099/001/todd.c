@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main(void){
     int total = 0;
     int i;
