@@ -9,4 +9,5 @@ int main(void){
          squareOfSum+=i;
      }
      printf("Question 6: %d\n", abs((squareOfSum * squareOfSum) - sumOfSquares));
+     getch();
 }
