@@ -79,7 +79,7 @@ unsigned long long main(unsigned long long argc, char **argv)
 {
 	// project euler q24
 	int len = 10;
-	int* digits = malloc(len * sizeof(unsigned long long));
+	int* digits = malloc(len * sizeof(int));
 	int i;
 	for (i = 0; i < len; i++)
 	{
