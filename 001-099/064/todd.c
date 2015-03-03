@@ -56,14 +56,12 @@ int getMaxPath(int n, int** t)
 void fillTriangle(int** t)
 {
 	FILE *fp;
-	int sum = 0; // sum of scores
 	
 	char filename[] = "H:\\Cdev\\euler\\euler\\triangle.txt";
 	fp = fopen(filename, "r");
 	char ch;
 	char buf[2]; // numbers are always 2 digits
 	int idx = 0;
-	int num = 1;
 	int row = 0;
 	int col = 0;
 	while ((ch = getc(fp)) != EOF)
